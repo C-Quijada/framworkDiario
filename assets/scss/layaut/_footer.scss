@@ -1,0 +1,21 @@
+.footer{
+    padding: 2rem 1rem;
+    &__derechos{
+        display: block;
+        width: 330px;
+        margin: 1rem auto;
+        text-align: center;
+    }
+    &__nav{
+        width: 330px;
+        display: block;
+        margin: auto;
+        padding: 0;
+    }
+    &__logo{
+        margin:3rem 0 0 0;
+        text-align: center;
+    }
+
+    
+}

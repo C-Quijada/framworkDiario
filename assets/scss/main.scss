@@ -1,0 +1,24 @@
+//abstract 
+
+//vendor
+@import 'vendor/bootstrap/scss/bootstrap-grid.scss';
+
+//base
+@import 'base/border';
+@import 'base/img';
+@import 'base/fuentes';
+@import 'base/alineaciones';
+//layaut
+@import 'layaut/section';
+@import 'layaut/portada';
+@import 'layaut/header';
+@import 'layaut/aside';
+@import 'layaut/footer';
+
+//components 
+@import 'component/nav';
+@import 'component/card';
+@import 'component/breadCrumbs';
+//pages 
+
+//themes 

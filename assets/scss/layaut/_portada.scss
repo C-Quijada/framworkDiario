@@ -1,0 +1,21 @@
+.portada{
+    margin-top: 3rem ;
+    &__header{
+        vertical-align: baseline;
+        & p{
+           
+        }
+    }
+  
+    &__img{
+        width: 100%;
+        box-sizing: border-box;
+        overflow: hidden;
+        margin: 0;
+   
+    }
+
+    &__body{
+        margin: 0;
+    }
+}
